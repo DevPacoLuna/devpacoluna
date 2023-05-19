@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Express and Mongo**
 - 📝 I regularly write articles on [https://dev.to/devpacoluna](https://dev.to/devpacoluna)
 - 💬 Ask me about **React, Typescript, and Javascript**
-- 📄 Know about my experiences [nose.com](https://github.com/DevPacoLuna/devpacoluna/files/11518974/Front.end.Resume.Bullet.pdf)
+- 📄 Know about my experiences [My resume](https://github.com/DevPacoLuna/devpacoluna/files/11518974/Front.end.Resume.Bullet.pdf)
 
 - 📫 How to reach me **dev.luna@outlook.com**
 
