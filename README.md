@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paco Luna</h1>
 <h3 align="center">Software developer focused on Front-end, passionate about entrepreneurship, learning, and writing elegant, reusable, and unique code.</h3>
 
-- 📝 I regularly write articles on [https://dev.to/devpacoluna](https://dev.to/devpacoluna)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/devpacoluna)
 - 💬 Ask me about **React, Typescript, and Javascript**
 - 📄 Know about my experiences [My resume](https://github.com/user-attachments/files/19265641/FranciscoJavierLunaFigueroaResume.pdf)
 - 💻 Checkout my [webpage](https://fl-curriculum.vercel.app/)
